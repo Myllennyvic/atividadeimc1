@@ -11,10 +11,12 @@ body{
     text-align: center;
 }
 
-.form1{
+.form{
     display: flex;
     justify-content: center;
     flex-direction: column;
+    text-align: center;
+    border-radius: 30px;
 }
 .container2{
     display: flexbox;
@@ -24,6 +26,18 @@ body{
     width: 500px;
     height: 500px;
     background-color: rgb(255, 242, 225);
+}
+
+.imc{
+    text-align: center;
+    color: brown;
+    font-size: 20px;
+}
+
+.classificacao{
+    text-align: center;
+    color: brown;
+    font-size: 30px;
 }
 
 
