@@ -1,3 +1,0 @@
-<label for="username">Enter your username:</label>
-<input id="username" name="username" type="text" />
-<label for="username">Forgot your username?</label>
